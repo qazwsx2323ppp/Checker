@@ -1,0 +1,127 @@
+﻿  pch.cpp
+  simhash.cpp
+D:\Check\SimHashUnitTest\simhash.cpp(12,6): error C2039: "string": 不是 "std" 的成员
+  SimHashUnitTest.cpp
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(12,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(12,13): error C2146: 语法错误: 缺少“;”(在标识符“read_file”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(12,34): error C2039: "string": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(12,53): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(12,53): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,6): error C2039: "string": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,6): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,6): error C2086: “int string”: 重定义
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\simhash.cpp(12,6):
+      参见“string”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,13): error C2146: 语法错误: 缺少“;”(在标识符“compute_simhash”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,40): error C2039: "string": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,54): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(23,54): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(51,43): error C2039: "string": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(51,32): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(51,49): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(52,9): error C2065: “hash1”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(52,27): error C2065: “hash2”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(53,20): error C2039: "runtime_error": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(53,20): error C3861: “runtime_error”: 找不到标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(57,28): error C2065: “hash1”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(58,13): error C2065: “hash1”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(58,25): error C2065: “hash2”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(66,40): error C2039: "string": 不是 "std" 的成员
+  (编译源文件“/simhash.cpp”)
+      D:\Check\SimHashUnitTest\predefined C++ types (compiler internal)(347,11):
+      参见“std”的声明
+  
+D:\Check\SimHashUnitTest\simhash.cpp(66,29): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(66,46): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(67,55): error C2065: “original_hash”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(67,70): error C2065: “plagiarized_hash”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\simhash.cpp(68,58): error C2065: “original_hash”: 未声明的标识符
+  (编译源文件“/simhash.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(6,17): error C2653: “Microsoft”: 不是类或命名空间名称
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(6,42): error C2871: “CppUnitTestFramework”: 具有该名称的命名空间不存在
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(10,16): error C2065: “SimHashUtilsTest”: 未声明的标识符
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(10,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(11,5): error C2059: 语法错误:“{”
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(11,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
+D:\Check\SimHashUnitTest\SimHashUnitTest.cpp(11,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“/SimHashUnitTest.cpp”)
+  
